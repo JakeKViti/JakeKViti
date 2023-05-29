@@ -1,6 +1,7 @@
 - 👋 Hello! I am Jacob Viti
 - 👀 I’m interested in inproving my coding skills and updating projects
-- 🌱 I’m currently improving my skills in JavaScript, C#, ASP.NET, and PHP
+- 🌱 I’m currently working as a Software Dev using C#, ASP.NET, JS, TS, PHP, Laravel, Backbone.JS
+- 📅 My future plans are continue working in my field, and build up my skill. My next project is: ???
 - 🧔 I currently spend my free time with competitive gaming, working out, and working on improving myself technically and mentally  
 
 - 📫 You can contact me at:
