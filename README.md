@@ -7,4 +7,4 @@
 - 📫 You can contact me at:
 [Gmail](mailto:thevitij64@gmail.com)
 
-- 🚪 Places you can also find me [Twitter](https://twitter.com/JakeKViti) | Discord: JakeKViti#0750
+- 🚪 Places you can also find me [Twitter](https://twitter.com/JakeKViti) 
